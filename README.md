@@ -18,7 +18,8 @@ Untuk menggunakan WebSocket, kita dapat menggunakan pustaka ws di Node.js. Berik
 1. Menginstall ws di Node.js
   npm install ws
 2. Membuat Server WebSocket
-    // server.js
+   
+  '  // server.js
 const express = require('express');
 const WebSocket = require('ws');
 
@@ -48,4 +49,4 @@ wss.on('connection', (ws) => {
 });
 
 // Menyajikan file statis (HTML)
-app.use(express.static('public'));
+app.use(express.static('public')); '
