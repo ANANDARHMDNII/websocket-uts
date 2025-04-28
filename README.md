@@ -38,5 +38,17 @@ Buat file public/client.html di dalam folder public:
 WebSocket adalah solusi sempurna untuk aplikasi web yang membutuhkan komunikasi real-time. Dengan kemampuan komunikasi dua arah yang terbuka dan efisien, WebSocket sangat cocok digunakan untuk aplikasi chat, game multiplayer, notifikasi real-time, dan banyak aplikasi lainnya.
 Dengan menggunakan kombinasi Express dan WebSocket, kita bisa membangun aplikasi yang tidak hanya responsif, tetapi juga efisien dalam hal penggunaan sumber daya dan latensi.
 
+# Referensi
+WebSocket (MDN Web Docs):
+https://developer.mozilla.org/en-US/docs/Web/API/WebSocket 
+
+Express (Dokumentasi Resmi):
+https://expressjs.com/
+
+ws (WebSocket Library for Node.js):
+https://www.npmjs.com/package/ws
+
+
+
    ## TERIMAKASIH
  
